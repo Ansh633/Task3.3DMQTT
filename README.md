@@ -16,8 +16,8 @@ const char* password = "1234567890";
 
 const char* mqttServer = "broker.emqx.io";
 const int mqttPort = 1883;
-const char* TopicWave = "SIT210/wavesJasnoor";
-const char* TopicPat = "SIT210/patsJasnoor";
+const char* TopicWave = "SIT210/wavesAnsh";
+const char* TopicPat = "SIT210/patsAnsh";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
